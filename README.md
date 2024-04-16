@@ -1,1 +1,1 @@
-# Prioritization-of-Application-Functions-in-6G-Medical-RANs
+# Processing Prioritization of Application Functions in Future 6G Medical RANs
